@@ -1,0 +1,16 @@
+# Secrets
+token.json
+credentials.json
+.env
+
+# Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Logs and Data
+logs/
+data/senders.json
+*.log

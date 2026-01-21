@@ -1,0 +1,10 @@
+{
+    "promo@brand.com": {
+        "domain": "brand.com",
+        "classifications": {
+            "PROMOTION": 3
+        },
+        "last_seen": "2026-01-20T23:19:15.733642",
+        "trusted_marketing_source": true
+    }
+}
